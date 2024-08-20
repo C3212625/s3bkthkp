@@ -24,11 +24,11 @@ pip install openpyxl
 **Installation**
 
 Clone the repository:
-git clone https://github.com/c3212625/s3-bucket-details.git
+git clone https://github.com/C3212625/s3bkthkp.git
 
 Navigate to the project directory:
 
-cd s3-bucket-details
+cd <project directory)
 
 python s3_empty_bucket.py
 
