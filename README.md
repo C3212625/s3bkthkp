@@ -42,10 +42,3 @@ python s3_empty_bucket.py
 **Notes:-**
     The "Last Access Date" is estimated based on the last modified date of the objects within the bucket. This may not always represent the exact last access time.
     Ensure that your AWS credentials have sufficient permissions to list S3 buckets, access object metadata, and perform other necessary operations.
-
-**Contributing**
-
-Feel free to submit issues or pull requests if you find bugs or have improvements.
-
-**License**
-This project is licensed under the MIT License - see the LICENSE file for details.
